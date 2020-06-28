@@ -1,2 +1,2 @@
 # command run terraform create vm
-terraform apply -auto-approve
+sudo terraform apply -auto-approve
