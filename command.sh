@@ -1,2 +1,2 @@
-# command run terraform create vm
+# command run terraform create vm test
 terraform apply -auto-approve
